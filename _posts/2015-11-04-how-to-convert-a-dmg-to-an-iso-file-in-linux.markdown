@@ -2,7 +2,7 @@
 published: true
 title: How to Convert a dmg to an iso file in Linux
 layout: post
-tags: [dmg, img, Install, iso, Linux, Mac, OSX, Ubuntu]
+tags: [dmg, img, Install, iso, Linux, Mac, OS, X, Ubuntu]
 categories: [Linux]
 ---
 Press Ctrl + Alt + T on your keyboard to open Terminal. When it opens, run the commands below:
