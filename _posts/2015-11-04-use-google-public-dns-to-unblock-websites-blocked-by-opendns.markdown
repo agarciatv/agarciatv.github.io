@@ -2,7 +2,7 @@
 published: true
 title: Use Google Public DNS to Unblock Websites Blocked by OpenDNS
 layout: post
-tags: [Google, Linux, Mac, OSX, Windows, DNS, Public]
+tags: [Google, Linux, Mac, OS, X, Windows, DNS, Public, OpenDNS]
 categories: [Web]
 ---
 Use the following instructions to improve your browser speed and circumvent blocks by OpenDNS. Enjoy!<br />
