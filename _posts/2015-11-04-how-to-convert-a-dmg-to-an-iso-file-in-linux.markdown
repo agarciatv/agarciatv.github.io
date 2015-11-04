@@ -11,8 +11,8 @@ Press Ctrl + Alt + T on your keyboard to open Terminal. When it opens, run the c
 
 Once installed, change the directory to where the .dmg file is located and run the following command:
 
-<strong>dmg2img <file_name>.dmg</strong>
+<strong>dmg2img <file_name>.dmg
 
 This will convert the .dmg to an .img file. Run the following command to convert the .img to an .iso file.
 
-<strong>mv <file_name>.img <file_name>.iso</strong>
+<strong>mv <file_name>.img <file_name>.iso
