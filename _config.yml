@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://agarciatv.github.io
 title: Aaron Garcia
-tagline: Technically Creative
+tagline: San Antonio, TX
 description: This blog is for those who enjoy technical and creative things!
 paginate: 5
