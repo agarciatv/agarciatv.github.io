@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://agarciatv.github.io
 title: Aaron Garcia
-tagline: Video Production, Photography, Web Development, Marketing
+tagline: Technically Creative
 description: This blog is for those who enjoy technical and creative things!
 paginate: 5
