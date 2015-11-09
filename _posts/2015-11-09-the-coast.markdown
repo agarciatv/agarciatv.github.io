@@ -1,0 +1,8 @@
+---
+published: true
+title: The Coast
+layout: post
+tags: [Corpus, Christi, Texas, coast, costal, Seagulls, Bonaparte, Gulls, sand, ocean, gulf, summer, vacation]
+categories: [Video]
+---
+<iframe src="https://player.vimeo.com/video/133287085" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133287085">The Coast</a> from <a href="https://vimeo.com/agarciatv">Aaron Garcia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
